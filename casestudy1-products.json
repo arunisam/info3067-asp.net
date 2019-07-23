@@ -7,7 +7,7 @@
         "COST" : "20.00",
         "MSRP" : "120.00",
         "QTYHAND" : "5",
-        "QTYBACK" : "20",
+        "QTYBACK" : "0",
         "DESCRIPTION" : "This once hoops shoe was named after Air Force One—the aircraft that carries the US President. In 1982, it was the first basketball shoe to house Nike Air, revolutionising the game while rapidly gaining traction around the world, from the hardwood, to the tarmac, to the core of hip-hop culture. Today, the Air Force 1 stays true to its roots with soft, springy cushioning, but the Nike Air technology takes a back seat to the shoe's status as an icon."
     },
     {
@@ -18,7 +18,7 @@
         "COST" : "15.00",
         "MSRP" : "130.00",
         "QTYHAND" : "5",
-        "QTYBACK" : "10",
+        "QTYBACK" : "0",
         "DESCRIPTION" : "The Nike Sportswear Anorak is made from woven fabric that is smooth to the touch for lightweight comfort. An adjustable hood and 1/2-zip profile allow you to personalise your coverage. Includes raglan sleeves eliminate shoulder seams so you can move freely. Fashionable jacket has a loose fit and oversized, roomy cut."
     },
     {
@@ -29,7 +29,7 @@
         "COST" : "4.00",
         "MSRP" : "35.00",
         "QTYHAND" : "3",
-        "QTYBACK" : "10",
+        "QTYBACK" : "0",
         "DESCRIPTION" : "The Nike Strike Football features a reinforced rubber bladder for air and shape retention, and high-contrast graphics for a consistent feel and easy visual tracking. Features Nike Aerowtrac grooves and 12-panel design for accurate ball flight. Textured casing provides great touch and feel. Two-year stitch and shape guarantee. Made from all imported materials."
     },
     {
@@ -40,7 +40,7 @@
         "COST" : "10.00",
         "MSRP" : "74.00",
         "QTYHAND" : "15",
-        "QTYBACK" : "40",
+        "QTYBACK" : "0",
         "DESCRIPTION" : "The Nike Swoosh Women's Running Tights feature stretchy and sweat-wicking fabric that's designed for all-day wear. A flattering waistband and feminine design create tights that can tackle it all—and look good while doing it. This product is made from at least 50% recycled polyester fabric. The material comes from plastic bottles that Nike has diverted from landfill since 2010—bringing Nike's total to more than 6 billion."
     },
     {
@@ -51,7 +51,7 @@
         "COST" : "25.00",
         "MSRP" : "120.00",
         "QTYHAND" : "10",
-        "QTYBACK" : "25",
+        "QTYBACK" : "0",
         "DESCRIPTION" : "The Nike Sportswear Tech Fleece Hoodie updates a wardrobe staple with the lightweight warmth of Nike Tech Fleece fabric. Designed with a two-way zip, it's a modern take on the classic hoodie. Reinforced pockets are extra durable. Three-panel hood is streamlined for a sleek look. Standard fit for a relaxed, easy feel."
     },
     {
@@ -62,7 +62,7 @@
         "COST" : "5.00",
         "MSRP" : "40.00",
         "QTYHAND" : "7",
-        "QTYBACK" : "30",
+        "QTYBACK" : "0",
         "DESCRIPTION" : "Restorative slides for post-workout relaxation. Rejuvenating slides for hardworking feet. These soft slides have an adjustable bandage-style upper and a plush, cushioned midsole. Massage nubs along the footbed provide relief with every step. Features a simple slip-on construction with hook-and-loop closure. Made out of Combined Cloudfoam on the midsole and outsole."
     },
     {
@@ -73,7 +73,7 @@
         "COST" : "10.00",
         "MSRP" : "50.00",
         "QTYHAND" :"5",
-        "QTYBACK" : "20",
+        "QTYBACK" : "0",
         "DESCRIPTION" : "A moisture-wicking tank for hot-weather running. This tank top keeps sweat at bay during hot summer runs. Built with highly breathable moisture-wicking fabric, it delivers dry comfort over any distance. The slim fit hugs the body and stays in place as you move. Slim fit is snug through the body and arms. Features a scoop neck and racer back."
     },
     {
@@ -84,7 +84,7 @@
         "COST" : "25.00",
         "MSRP" : "85.00",
         "QTYHAND" : "8",
-        "QTYBACK" : "15",
+        "QTYBACK" : "0",
         "DESCRIPTION" : "The SST track suit was designed in 1979 for tennis training. It quickly became an iconic adidas street style. These track pants stay true to the original design with a slim fit and tapered legs. They're made in the original sporty polyester fabric that's smooth inside and out and just slightly stretchy. The Adicolor collection Inspired by adidas heritage, Adicolor is authentic but modern Iconic details Signature 3-Stripes and a Trefoil logo show off adidas pride."
     },
     {
@@ -95,7 +95,7 @@
         "COST" : "7.00",
         "MSRP" : "60.00",
         "QTYHAND" : "3",
-        "QTYBACK" : "10",
+        "QTYBACK" : "0",
         "DESCRIPTION" : "The look of leather gives this sporty bag rugged new appeal. The classic Santiago Duffel Bag gets a stylish update with a new look that mimics leather. Built to last, this durable bag has room for all your daily gear, with one main compartment and two extra zip pockets on the side."
     },
     {
@@ -106,7 +106,7 @@
         "COST" : "20.00",
         "MSRP" : "100.00",
         "QTYHAND" : "1",
-        "QTYBACK" : "10",
+        "QTYBACK" : "0",
         "DESCRIPTION" : "Fashion and street attitude combine in this digital timepiece. A streetwear style with versatile functions to take you through the day. This digital watch features a soft silicone strap for a comfortable fit. The bold, three-color style is a nod to adidas' athletic DNA. Dual time, stopwatch, calendar and light functions"
     },
     {
@@ -117,7 +117,7 @@
         "COST" : "7.00",
         "MSRP" : "35.00",
         "QTYHAND" : "6",
-        "QTYBACK" : "15",
+        "QTYBACK" : "0",
         "DESCRIPTION" : "Next-to-skin without the squeeze. Best for A to C cups. Built for Light-Support activity & all-day comfort. Removable cups for extra coverage. Unique front & back strap detail. Skinny wordmark branded elastic band & straps. Super-smooth, double-layer HeatGear® fabric delivers superior next-to-skin feel. Material wicks sweat & dries really fast. 4-way stretch construction moves better in every direction. Anti-odor technology prevents the growth of odor-causing microbes."
     },
     {
@@ -128,7 +128,7 @@
         "COST" : "5.00",
         "MSRP" : "44.99",
         "QTYHAND" : "3",
-        "QTYBACK" : "10",
+        "QTYBACK" : "0",
         "DESCRIPTION" : "Under Armour Storm1 technology repels water to protect you & your gear from the elements. Dual action opening for compact storage and handling. Textured rubber handle provides a comfortable, slip-free grip. 62” diameter for complete protection from rain or sunshine. Protective and durable 100% nylon canopy. Made from imported materials."
     },
     {
@@ -139,7 +139,7 @@
         "COST" : "9.00",
         "MSRP" : "35.00",
         "QTYHAND" : "6",
-        "QTYBACK" : "20",
+        "QTYBACK" : "0",
         "DESCRIPTION" : "Loose fit and fuller cut for complete comfort. Simple, all-purpose style for every day wear. Super-soft, cotton-blend fabric provides all-day comfort. Features comfortable ribbed collar and cuffs. Fashionable Under Armour alternative logo filled with camouflage pattern. Available in black or steel grey. Made from 60% Cotton and 40% Polyester imported materials. "
     },
     {
@@ -150,7 +150,7 @@
         "COST" : "14.00",
         "MSRP" : "50.00",
         "QTYHAND" : "3",
-        "QTYBACK" : "15",
+        "QTYBACK" : "0",
         "DESCRIPTION" : "Fitted for a slimmer, more athletic cut. Lightweight woven outer fabric delivers superior durability & protection. Heather knit waistband with external drawcord & cuffs. Tapered leg with cuff that can be worn long or scrunched up. Open hand pockets. Inseam: YMD 26 inch (+/- 3 inch per size). Imported materials of 84% Polyester and 16% Elastane."
     },
     {
@@ -161,7 +161,7 @@
         "COST" : "15.00",
         "MSRP" : "55.00",
         "QTYHAND" : "2",
-        "QTYBACK" : "10",
+        "QTYBACK" : "0",
         "DESCRIPTION" : "Ultra-tight, second-skin fit for a locked-in feel. Tough, lightweight HeatGear® fabric, with all the performance benefits of UA Compression. Stretch-mesh gusset and inseam panels deliver strategic ventilation. Ergonomic design keeps seams off high abrasion areas and increases durability. 4-way stretch construction moves better in every direction. Material wicks sweat and dries really fast. Anti-odor technology prevents the growth of odor-causing microbes."
     }
 ]
